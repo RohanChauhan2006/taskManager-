@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #f4f4f4;
-    margin: 0; /* Remove default margin */
+    margin: 0; 
 }
 
 .task-manager {
@@ -13,9 +13,8 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    width: 90%; /* Use percentage for width */
-    max-width: 400px; /* Set a maximum width */
-}
+    width: 90%; 
+    max-width: 400px;
 
 h1 {
     text-align: center;
